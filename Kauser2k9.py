@@ -1,2 +1,2 @@
-import kauser
-kauser.Main()
+import Kauser
+Kauser.Main()
